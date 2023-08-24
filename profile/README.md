@@ -1,6 +1,6 @@
 # Welcome to the MBSD-Tanzania GitHub Repository!
 
-<h1 align="center"> ![MSBD - TANZANIA](https://github.com/MBSD-TANZANIA/.github/assets/65360332/c1877420-92b3-4090-b86b-aef9a827bc96) </h1>
+<p align="center"> <img src="./images/images.png"> </p>
 
 We are **MBSD (Model-Based Software Development)**, a passionate team dedicated to MATLAB Simulink script coding, model-based programming, Python projects, and a variety of other exciting endeavors. This repository serves as a hub for our projects, codebase, and collaboration.
 
@@ -27,8 +27,6 @@ Here's a glimpse of what you'll find in this repository:
 - **Model-Based Design Resources:** In-depth guides, tutorials, and resources on model-based design to help both beginners and experts grasp the concepts.
 
 - **Python Projects:** Explore our Python projects showcasing the diverse range of applications and solutions we've developed.
-
-- **Contributions Welcome:** We're open to collaboration! If you're interested in contributing, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Get in Touch
 

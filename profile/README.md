@@ -2,7 +2,7 @@
 
 <img src="./images/images.jpg">
 
-We are **MBSD (Model-Based Software Development)**, a passionate team dedicated to MATLAB Simulink script coding, model-based programming, Python projects, and a variety of other exciting endeavors. This repository serves as a hub for our projects, codebase, and collaboration.
+We are **MBSD - TANZANIA**, a passionate team dedicated to MATLAB Simulink script coding, model-based programming, Python projects, and a variety of other exciting endeavors. This repository serves as a hub for our projects, codebase, and collaboration.
 
 ## About Us
 

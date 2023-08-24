@@ -1,6 +1,6 @@
 # Welcome to the MBSD-Tanzania GitHub Organization!
 
-<img src="./images/images.jpg">
+<p align="center"><img src="./images/images.jpg"></p>
 
 We are **MBSD - TANZANIA**, a passionate team dedicated to MATLAB Simulink script coding, model-based programming, Python projects, and a variety of other exciting endeavors. This repository serves as a hub for our projects, codebase, and collaboration.
 

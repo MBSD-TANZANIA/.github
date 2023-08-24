@@ -1,4 +1,4 @@
-# Welcome to the MBSD-Tanzania GitHub Repository!
+# Welcome to the MBSD-Tanzania GitHub Organization!
 
 <p align="center"> <img src="./images/images.jpg"> </p>
 
@@ -20,7 +20,7 @@ At MBSD-Tanzania, we believe in the power of innovation and technology. Our team
 
 ## Repository Highlights
 
-Here's a glimpse of what you'll find in this repository:
+Here's a glimpse of what you'll find in this organization:
 
 - **MATLAB Simulink Snippets:** A collection of handy MATLAB Simulink code snippets that can be used as building blocks for various projects.
 
